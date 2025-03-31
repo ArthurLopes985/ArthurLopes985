@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ArthurLopes985
+- 👀 I’m interested in games and sports
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on software development
+- 📫 How to reach me:arthurlopes090805@gmail.com
+- 😄 Pronouns: he/him
