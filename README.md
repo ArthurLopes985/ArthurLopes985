@@ -8,7 +8,7 @@ Estou no terceiro ano da faculdade, comecei com Python, depois Java, Flutter com
 
 * 🌍  Estou localizado em São Paulo, SP - Brasil
 * ✉️  Você pode entrar em contato comigo via [arthurlopes090805@gmail.com](mailto:arthurlopes090805@gmail.com)
-* 🧠  Estou aprendendo atualmente Inteligência e Padrões de Projetos.
+* 🧠  Estou aprendendo atualmente Inteligência e Padrões de Projetos
 * 👥  Estou aberto a ajudar em Projetos em Python, Java, Dart
 
 <p align="left">
