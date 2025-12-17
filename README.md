@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ArthurLopes985
-- 👀 I’m interested in games and sports
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on software development
-- 📫 How to reach me:arthurlopes090805@gmail.com
-- 😄 Pronouns: he/him
+- Aluno de Engenharia de Software na Universidade de Mogi das Cruzes
+- Buscando oportunidades profissional na área de Denvolvimento de Sistemas/Aplicativos
+- Python | Java | Dart | Flutter | Flutterflow | SQL
+- E-mail: arthurlopes090805@gmail.com
+- Linkedln: www.linkedin.com/in/arthur-lopes-a7912029b
